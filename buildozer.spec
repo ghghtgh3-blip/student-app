@@ -23,7 +23,7 @@ android.archs = arm64-v8a, armeabi-v7a
 android.allow_backup = True
 android.accept_sdk_license = True
 
-p4a.branch = v2023.09.10
+p4a.branch = v2024.01.21
 
 [buildozer]
 
